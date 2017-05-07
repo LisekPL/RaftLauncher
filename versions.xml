@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Versions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <displayName>
+    <string>1.05   64bit</string>
+    <string>1.05   32bit</string>
+    <string>1.05   64bit Demp Mod (Multiplayer)</string>
+    <string>1.05   32bit Demp Mod (Multiplayer)</string>
+  </displayName>
+  <folderName>
+    <string>V1.05_Raft_Win64</string>
+    <string>V1.05_Raft_Win32</string>
+    <string>V1.05_Raft_Win64_V1.02c_Demp</string>
+    <string>V1.05_Raft_Win32_V1.02c_Demp</string>
+  </folderName>
+  <exeName>
+    <string>V1.05_Raft_Win64</string>
+    <string>V1.05_Raft_Win32</string>
+    <string>V1.05_Raft_Win64</string>
+    <string>V1.05_Raft_Win32</string>
+  </exeName>
+  <link>
+ 	<string>https://archive.org/download/RaftFiles/OfficialVersions/V1.05_Raft_Win64.zip</string>
+	<string>https://archive.org/download/RaftFiles/OfficialVersions/V1.05_Raft_Win32.zip</string>
+	<string>https://archive.org/download/RaftFiles/ModdedVersions/V1.05_Raft_Win64_V1.02c_Demp.zip</string>
+	<string>https://archive.org/download/RaftFiles/ModdedVersions/V1.05_Raft_Win32_V1.02c_Demp.zip</string>
+  </link>
+  <system64>
+    <bool>true</bool>
+    <bool>false</bool>
+    <bool>true</bool>
+    <bool>false</bool>
+  </system64>
+  <modded>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>true</bool>
+    <bool>true</bool>
+  </modded>
+</Versions>
