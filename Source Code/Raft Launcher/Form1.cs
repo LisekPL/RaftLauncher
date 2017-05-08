@@ -50,7 +50,7 @@ namespace WindowsFormsApp1
 			{
 				using (var klient = new WebClient ())
 				{
-					klient.DownloadFile (new Uri ("https://pastebin.com/raw/HztQYnHf"), gameFolder + "\\downloading\\versions.xml");
+					klient.DownloadFile (new Uri ("https://raw.githubusercontent.com/LisekPL/RaftLauncher/master/versions.xml"), gameFolder + "\\downloading\\versions.xml");
 
 					XmlSerializer serializer = new XmlSerializer (typeof (Versions));
 
