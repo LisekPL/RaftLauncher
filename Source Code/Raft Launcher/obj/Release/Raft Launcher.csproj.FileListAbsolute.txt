@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\bin\Release\Raft Launcher.exe.config
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\bin\Release\Raft Launcher.exe
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\bin\Release\Raft Launcher.pdb
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Release\Raft_Launcher.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Release\Raft Launcher.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Release\Raft Launcher.exe
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Release\Raft Launcher.pdb
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Release\Raft Launcher.csprojResolveAssemblyReference.cache

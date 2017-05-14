@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26127.3
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raft Launcher", "Raft Launcher\Raft Launcher.csproj", "{9C47D011-420F-4721-832D-5F94419676C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{6F099F8D-1786-4490-8F34-C01D79A84CB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{9C47D011-420F-4721-832D-5F94419676C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C47D011-420F-4721-832D-5F94419676C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C47D011-420F-4721-832D-5F94419676C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F099F8D-1786-4490-8F34-C01D79A84CB8}.Debug|Any CPU.ActiveCfg = Debug
+		{6F099F8D-1786-4490-8F34-C01D79A84CB8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

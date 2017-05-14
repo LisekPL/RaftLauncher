@@ -19,9 +19,9 @@ C:\Users\Admin\Documents\Visual Studio 2017\Projects\Raft Launcher\Raft Launcher
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\bin\Debug\Raft Launcher.exe.config
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\bin\Debug\Raft Launcher.exe
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\bin\Debug\Raft Launcher.pdb
-C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\Raft Launcher.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\Raft_Launcher.Properties.Resources.resources
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\Raft Launcher.csproj.GenerateResource.Cache
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\Raft Launcher.exe
 C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\Raft Launcher.pdb
+C:\Users\Admin\Documents\GitHub\RaftLauncher\Source Code\Raft Launcher\obj\Debug\Raft Launcher.csprojResolveAssemblyReference.cache

@@ -19,10 +19,10 @@
     <string>V1.05_Raft_Win32</string>
   </exeName>
   <link>
- 	<string>https://archive.org/download/RaftFiles/OfficialVersions/V1.05_Raft_Win64.zip</string>
-	<string>https://archive.org/download/RaftFiles/OfficialVersions/V1.05_Raft_Win32.zip</string>
-	<string>https://archive.org/download/RaftFiles/ModdedVersions/V1.05_Raft_Win64_V1.02c_Demp.zip</string>
-	<string>https://archive.org/download/RaftFiles/ModdedVersions/V1.05_Raft_Win32_V1.02c_Demp.zip</string>
+ 	<string>https://archive.org/download/raft-launcher/files/V1.05_Raft_Win64.zip</string>
+	<string>https://archive.org/download/raft-launcher/files/V1.05_Raft_Win32.zip</string>
+	<string>https://archive.org/download/raft-launcher/files/V1.05_Raft_Win64_V1.02c_Demp.zip</string>
+	<string>https://archive.org/download/raft-launcher/files/V1.05_Raft_Win32_V1.02c_Demp.zip</string>
   </link>
   <system64>
     <bool>true</bool>
